@@ -1,0 +1,16 @@
+C:\Users\John\source\repos\drive\ProjekatImplementation\bin\Debug\netcoreapp3.1\ProjekatImplementation.deps.json
+C:\Users\John\source\repos\drive\ProjekatImplementation\bin\Debug\netcoreapp3.1\ProjekatImplementation.dll
+C:\Users\John\source\repos\drive\ProjekatImplementation\bin\Debug\netcoreapp3.1\ProjekatImplementation.pdb
+C:\Users\John\source\repos\drive\ProjekatImplementation\obj\Debug\netcoreapp3.1\ProjekatImplementation.csprojAssemblyReference.cache
+C:\Users\John\source\repos\drive\ProjekatImplementation\obj\Debug\netcoreapp3.1\ProjekatImplementation.AssemblyInfoInputs.cache
+C:\Users\John\source\repos\drive\ProjekatImplementation\obj\Debug\netcoreapp3.1\ProjekatImplementation.AssemblyInfo.cs
+C:\Users\John\source\repos\drive\ProjekatImplementation\obj\Debug\netcoreapp3.1\ProjekatImplementation.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\drive\ProjekatImplementation\obj\Debug\netcoreapp3.1\ProjekatImplementation.dll
+C:\Users\John\source\repos\drive\ProjekatImplementation\obj\Debug\netcoreapp3.1\ProjekatImplementation.pdb
+C:\Users\John\source\repos\drive\ProjekatImplementation\bin\Debug\netcoreapp3.1\PorjekatDataAccsess.dll
+C:\Users\John\source\repos\drive\ProjekatImplementation\bin\Debug\netcoreapp3.1\ProjekatDomain.dll
+C:\Users\John\source\repos\drive\ProjekatImplementation\bin\Debug\netcoreapp3.1\ProjekatiApplication.dll
+C:\Users\John\source\repos\drive\ProjekatImplementation\bin\Debug\netcoreapp3.1\PorjekatDataAccsess.pdb
+C:\Users\John\source\repos\drive\ProjekatImplementation\bin\Debug\netcoreapp3.1\ProjekatDomain.pdb
+C:\Users\John\source\repos\drive\ProjekatImplementation\bin\Debug\netcoreapp3.1\ProjekatiApplication.pdb
+C:\Users\John\source\repos\drive\ProjekatImplementation\obj\Debug\netcoreapp3.1\ProjekatImplementation.csproj.CopyComplete

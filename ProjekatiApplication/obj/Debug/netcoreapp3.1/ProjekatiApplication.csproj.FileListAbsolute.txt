@@ -1,0 +1,12 @@
+C:\Users\John\source\repos\drive\ProjekatiApplication\bin\Debug\netcoreapp3.1\ProjekatiApplication.deps.json
+C:\Users\John\source\repos\drive\ProjekatiApplication\bin\Debug\netcoreapp3.1\ProjekatiApplication.dll
+C:\Users\John\source\repos\drive\ProjekatiApplication\bin\Debug\netcoreapp3.1\ProjekatiApplication.pdb
+C:\Users\John\source\repos\drive\ProjekatiApplication\bin\Debug\netcoreapp3.1\ProjekatDomain.dll
+C:\Users\John\source\repos\drive\ProjekatiApplication\bin\Debug\netcoreapp3.1\ProjekatDomain.pdb
+C:\Users\John\source\repos\drive\ProjekatiApplication\obj\Debug\netcoreapp3.1\ProjekatiApplication.csprojAssemblyReference.cache
+C:\Users\John\source\repos\drive\ProjekatiApplication\obj\Debug\netcoreapp3.1\ProjekatiApplication.AssemblyInfoInputs.cache
+C:\Users\John\source\repos\drive\ProjekatiApplication\obj\Debug\netcoreapp3.1\ProjekatiApplication.AssemblyInfo.cs
+C:\Users\John\source\repos\drive\ProjekatiApplication\obj\Debug\netcoreapp3.1\ProjekatiApplication.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\drive\ProjekatiApplication\obj\Debug\netcoreapp3.1\ProjekatiApplication.csproj.CopyComplete
+C:\Users\John\source\repos\drive\ProjekatiApplication\obj\Debug\netcoreapp3.1\ProjekatiApplication.dll
+C:\Users\John\source\repos\drive\ProjekatiApplication\obj\Debug\netcoreapp3.1\ProjekatiApplication.pdb

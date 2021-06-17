@@ -1,0 +1,9 @@
+C:\Users\John\source\repos\drive\ProjekatDomain\bin\Debug\netcoreapp3.1\ProjekatDomain.deps.json
+C:\Users\John\source\repos\drive\ProjekatDomain\bin\Debug\netcoreapp3.1\ProjekatDomain.dll
+C:\Users\John\source\repos\drive\ProjekatDomain\bin\Debug\netcoreapp3.1\ProjekatDomain.pdb
+C:\Users\John\source\repos\drive\ProjekatDomain\obj\Debug\netcoreapp3.1\ProjekatDomain.AssemblyInfoInputs.cache
+C:\Users\John\source\repos\drive\ProjekatDomain\obj\Debug\netcoreapp3.1\ProjekatDomain.AssemblyInfo.cs
+C:\Users\John\source\repos\drive\ProjekatDomain\obj\Debug\netcoreapp3.1\ProjekatDomain.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\drive\ProjekatDomain\obj\Debug\netcoreapp3.1\ProjekatDomain.dll
+C:\Users\John\source\repos\drive\ProjekatDomain\obj\Debug\netcoreapp3.1\ProjekatDomain.pdb
+C:\Users\John\source\repos\drive\ProjekatDomain\obj\Debug\netcoreapp3.1\ProjekatDomain.csprojAssemblyReference.cache

@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PorjekatDataAccsess\PorjekatDataAccsess.csproj" />
+    <ProjectReference Include="..\ProjekatDomain\ProjekatDomain.csproj" />
+    <ProjectReference Include="..\ProjekatiApplication\ProjekatiApplication.csproj" />
+    <ProjectReference Include="..\ProjekatImplementation\ProjekatImplementation.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\images\" />
+  </ItemGroup>
+
+
+</Project>

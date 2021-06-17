@@ -1,0 +1,15 @@
+C:\Users\John\source\repos\drive\PorjekatDataAccsess\bin\Debug\netcoreapp3.1\PorjekatDataAccsess.deps.json
+C:\Users\John\source\repos\drive\PorjekatDataAccsess\bin\Debug\netcoreapp3.1\PorjekatDataAccsess.runtimeconfig.json
+C:\Users\John\source\repos\drive\PorjekatDataAccsess\bin\Debug\netcoreapp3.1\PorjekatDataAccsess.runtimeconfig.dev.json
+C:\Users\John\source\repos\drive\PorjekatDataAccsess\bin\Debug\netcoreapp3.1\PorjekatDataAccsess.dll
+C:\Users\John\source\repos\drive\PorjekatDataAccsess\bin\Debug\netcoreapp3.1\PorjekatDataAccsess.pdb
+C:\Users\John\source\repos\drive\PorjekatDataAccsess\bin\Debug\netcoreapp3.1\ProjekatDomain.dll
+C:\Users\John\source\repos\drive\PorjekatDataAccsess\bin\Debug\netcoreapp3.1\ProjekatDomain.pdb
+C:\Users\John\source\repos\drive\PorjekatDataAccsess\obj\Debug\netcoreapp3.1\PorjekatDataAccsess.csprojAssemblyReference.cache
+C:\Users\John\source\repos\drive\PorjekatDataAccsess\obj\Debug\netcoreapp3.1\PorjekatDataAccsess.AssemblyInfoInputs.cache
+C:\Users\John\source\repos\drive\PorjekatDataAccsess\obj\Debug\netcoreapp3.1\PorjekatDataAccsess.AssemblyInfo.cs
+C:\Users\John\source\repos\drive\PorjekatDataAccsess\obj\Debug\netcoreapp3.1\PorjekatDataAccsess.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\drive\PorjekatDataAccsess\obj\Debug\netcoreapp3.1\PorjekatDataAccsess.csproj.CopyComplete
+C:\Users\John\source\repos\drive\PorjekatDataAccsess\obj\Debug\netcoreapp3.1\PorjekatDataAccsess.dll
+C:\Users\John\source\repos\drive\PorjekatDataAccsess\obj\Debug\netcoreapp3.1\PorjekatDataAccsess.pdb
+C:\Users\John\source\repos\drive\PorjekatDataAccsess\obj\Debug\netcoreapp3.1\PorjekatDataAccsess.genruntimeconfig.cache
